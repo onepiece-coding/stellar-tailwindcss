@@ -1,5 +1,7 @@
 # Stellar - React & Tailwind CSS Website
 
+![Stellar](https://github.com/onepiece-coding/stellar-tailwindcss/blob/main/public/Screenshot.png)
+
 Welcome to **Stellar**, a modern and responsive website built using **React** and **Tailwind CSS**. This project is designed to showcase the power of combining React for component-based architecture with Tailwind CSS for utility-first styling.
 
 ## Features
