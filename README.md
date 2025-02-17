@@ -56,7 +56,7 @@ To get started with this project, follow the steps below:
 
 **Learn how to build this project step-by-step by watching the tutorial on the OnePiece Coding YouTube channel:** 
 
-👉 [Video Link]()
+👉 [Video Link](https://youtu.be/OOV0ovgQdlU?si=Ro8xreUehoopJjSJ)
 
 ## Connect with Me
 
