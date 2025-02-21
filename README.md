@@ -52,12 +52,6 @@ To get started with this project, follow the steps below:
    
 5. **Open your browser and visit http://localhost:3000 to view the website.**
 
-## Watch the Tutorial Video
-
-**Learn how to build this project step-by-step by watching the tutorial on the OnePiece Coding YouTube channel:** 
-
-👉 [Video Link](https://youtu.be/OOV0ovgQdlU?si=Ro8xreUehoopJjSJ)
-
 ## Connect with Me
 
 - YouTube: [OnePiece Coding](https://www.youtube.com/@OnePieceCoding)
